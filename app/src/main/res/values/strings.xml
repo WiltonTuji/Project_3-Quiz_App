@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project 3 - Wilton Tuji</string>
+    <string name="titulo">Quiz - Teoria musical!</string>
+    <string name="descricao">\tEste quiz tem a intenção de ajudar você a revisar conceitos básicos da teoria musical. Você será desafiado a escolher e escrever a(as) resposta(as) correta(as) das questões! Boa sorte!</string>
+    <string name="int1">Questão 1:</string>
+    <string name="questao1">Para indicar ao músico como ler as notas escritas em uma partitura, usamos a ferramenta de "Clave". No piano, utiliza-se, normalmente, a clave de SOL e FÁ para indicar como ler as notas da partitura das mãos direita e esquerda, respectivamente. Qual das imagens abaixo representa a clave de SOL?</string>
+    <string name="int2">Questão 2:</string>
+    <string name="questao2">A pulsação básica de uma música, podendo ser obtida pelos "cliques" de um metrônomo (batidas por minuto ou bpm), é conhecido como:</string>
+    <string name="escrever">\tEscreva aqui sua resposta.</string>
+    <string name="int3">Questão 3:</string>
+    <string name="questao3">Qual(is) da(s) opção(ões) abaixo é(são) andamento(s)?</string>
+    <string name="int4">Questão 4:</string>
+    <string name="questao4">As notas DÓ, RÉ, MÍ, FÁ, SOL LÁ e SÍ correspondem, respectivamente, aos nomes:</string>
+    <string name="verificar">Verificar respostas!</string>
+    <string name="resposta">Resposta:</string>
+    <string name="acerto">Você acertou </string>
+    <string name="questoes">de 4 questões.</string>
+    <string name="erradoDo">Resposta errada. Esta é a clave de DÓ.</string>
+    <string name="erradoFa">Resposta errada. Esta é a clave de FÁ.</string>
+    <string name="certo">Resposta correta!</string>
+    <string name="erradoTempo">Resposta incorreta. A resposta correta é tempo.</string>
+    <string name="errado">Resposta incorreta. Tente novamente.</string>
+    <string name="erradoDica">Resposta errada. Dica: MÍ corresponde a E.</string>
+    <string name="vazio">Nenhuma resposta selecionada.</string>
+    <string name="campoVazio">Campo vazio. Por favor, preencher.</string>
+</resources>
